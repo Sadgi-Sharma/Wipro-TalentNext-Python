@@ -1,4 +1,4 @@
-# Wipro-TalentNext-Python-M-1
+# Wipro-TalentNext-Python-MileStone-1
 1. Python Fundamentals
 2. Data Structures
 3. Functions/Modules/Packages
@@ -6,7 +6,7 @@
 5. IO Operations
 6. Exception Handling
 
-# Wipro-TalentNext-Python-M-2
+# Wipro-TalentNext-Python-MileStone-2
 1. Regular Expression (RE)
 2. List Comprehension/Lambda Functions
 3. Introduction To AI And ML (no hands on module)
