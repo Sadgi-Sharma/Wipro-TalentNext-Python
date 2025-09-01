@@ -19,6 +19,6 @@
    
 # Wipro-TalentNext-Python-MileStone-4
 1. Regression And Classification
-2. Unsupervised ML
+2. Unsupervised ML (no hands on module)
 3. Introduction To NLP
    
